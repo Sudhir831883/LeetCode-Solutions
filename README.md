@@ -36,9 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->

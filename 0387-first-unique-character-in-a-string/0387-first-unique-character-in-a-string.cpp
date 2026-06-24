@@ -3,20 +3,23 @@ public:
     int firstUniqChar(string s) {
 
         int n = s.size();
+        vector<bool> v(n, false);
 
         for(int i = 0; i < n; i++) {
 
-            bool unique = true;
+            if(v[i]) continue;
 
-            for(int j = 0; j < n; j++) {
+            int count = 1;
 
-                if(i != j && s[i] == s[j]) {
-                    unique = false;
-                    break;
+            for(int j = i + 1; j < n; j++) {
+
+                if(s[i] == s[j]) {
+                    count++;
+                    v[j] = true;
                 }
             }
 
-            if(unique) {
+            if(count == 1) {
                 return i;
             }
         }

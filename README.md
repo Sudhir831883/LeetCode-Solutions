@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0905-sort-array-by-parity](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1200-minimum-absolute-difference](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -143,4 +145,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

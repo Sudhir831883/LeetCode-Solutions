@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->

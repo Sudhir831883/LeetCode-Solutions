@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0062-unique-paths) |
 ## String
 |  |
 | ------- |
@@ -131,5 +132,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0326-power-of-three](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0326-power-of-three) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

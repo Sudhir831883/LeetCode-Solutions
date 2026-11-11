@@ -166,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0046-permutations) |
+## Database
+|  |
+| ------- |
+| [0585-investments-in-2016](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0585-investments-in-2016) |
 <!---LeetCode Topics End-->

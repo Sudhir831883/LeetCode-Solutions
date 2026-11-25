@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0178-rank-scores](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0178-rank-scores) |
 | [0585-investments-in-2016](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/0585-investments-in-2016) |
+| [1164-product-price-at-a-given-date](https://github.com/Sudhir831883/LeetCode-Solutions/tree/master/1164-product-price-at-a-given-date) |
 ## Manacher
 |  |
 | ------- |
